@@ -18,7 +18,7 @@ export async function POST(req) {
 
     // Improved prompt with better formatting
     const prompt = `
-      Generate exactly 10 fun, ridiculous, or meme-worthy AI project ideas.
+      Generate exactly 10 fun, ridiculous, or cool AI project ideas.pruductive
       Requirements:
       - Focus: ${subject}
       - Project types: ${typesString}
