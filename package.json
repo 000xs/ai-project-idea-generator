@@ -9,15 +9,19 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "react": "latest",
-    "react-dom": "latest",
-    "next": "latest"
+    "@google/generative-ai": "^0.24.1",
+    "axios": "^1.10.0",
+    "lucide-react": "^0.525.0",
+    "next": "latest",
+    "react": "^19.1.0",
+    "react-dom": "latest"
   },
   "devDependencies": {
-    "autoprefixer": "latest",
-    "postcss": "latest",
-    "tailwindcss": "latest",
+    "@tailwindcss/postcss": "^4.1.11",
+    "autoprefixer": "^10.4.21",
     "eslint": "latest",
-    "eslint-config-next": "latest"
+    "eslint-config-next": "latest",
+    "postcss": "^8.5.6",
+    "tailwindcss": "^4.1.11"
   }
 }
