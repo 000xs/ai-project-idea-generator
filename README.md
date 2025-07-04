@@ -1,4 +1,4 @@
-# AI Project Idea Generator - README
+# AI Project Idea Generator 
 
 ![alt text](image.png)
 
