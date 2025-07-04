@@ -1,10 +1,12 @@
 # AI Project Idea Generator 
 
-![alt text](image.png)
+![alt text](screencapture-localhost-3000-2025-07-04-12_08_3ds2.png)
 
-## Overview
-A fun and creative AI-powered project idea generator built with Next.js that creates ridiculous, meme-worthy project suggestions. Perfect for hackathons, brainstorming sessions, or when you need inspiration with a twist!
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![Next.js](https://img.shields.io/badge/Next.js-14.2.3-black?logo=next.js)](https://nextjs.org/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.4.1-06B6D4?logo=tailwind-css)](https://tailwindcss.com/)
 
+A productive AI-powered project idea generator specifically designed for students, creating innovative project suggestions for academic success, career development, and campus solutions.
 ## Features
 - 💡 Generate 10 unique AI project ideas with one click
 - 🎨 Customize ideas by project type (web, mobile, hardware, etc.)
